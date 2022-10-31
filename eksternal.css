@@ -1,0 +1,24 @@
+/* footer */
+footer {
+    clear:both;
+    background-color:#1d1d1d;
+    padding:20px;
+    color:#eee;
+}
+div {
+    background-color: #8d8d8d;
+    padding: 20px;
+
+}
+header{
+    background-color: burlywood;
+    margin-bottom: 20px;
+
+}
+input{
+    float: center;
+}
+legend{
+    float: center;
+    table-layout: 20px;
+}
